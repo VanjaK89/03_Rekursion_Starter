@@ -15,4 +15,6 @@ public class MultCalc {
             return multiplicand + (calcMultiplication(multiplicand, multiplier - 1));
         }
     }
+
+
 }
